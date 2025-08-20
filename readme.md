@@ -31,11 +31,17 @@ Building intelligent systems with **LLMs** and **Machine Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![Claude](https://img.shields.io/badge/Claude-101010?style=for-the-badge&logo=anthropic&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![n8n](https://img.shields.io/badge/n8n-EE6C4D?style=for-the-badge&logo=n8n&logoColor=white)  
 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 </div>  
 
 ---
