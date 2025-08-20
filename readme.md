@@ -13,15 +13,30 @@
 ---
 
 ## 🎯 About Me  
-Final-year IT student passionate about **AI & Data Science** 🤖  
-Focused on **LLMs, Machine Learning, and Automation**.  
+<div align="center">
+
+**Final-year IT Student** | **AI & Data Science Enthusiast** 🤖  
+Building intelligent systems with **LLMs** and **Machine Learning**  
+🔍 *Currently seeking internship opportunities*
+
+</div>
 
 ---
 
-## 🛠 Tech Stack  
-**Languages & DB:** Python, SQL  
-**AI/ML:** PyTorch, TensorFlow, Transformers, LangChain, OpenAI  
-**DevOps & Tools:** Docker, FastAPI  
+## 🛠 Tech Stack
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>  
 
 ---
 
