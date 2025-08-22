@@ -17,7 +17,6 @@
 
 **Final-year IT Student** | **AI & Data Science Enthusiast** 🤖  
 Building intelligent systems with **LLMs** and **Machine Learning**  
-🔍 *Currently seeking internship opportunities*
 
 </div>
 
