@@ -52,16 +52,6 @@ Building intelligent systems with **LLMs** and **Machine Learning**
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThanhAn-Tran&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhAn-Tran&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Connect  
 <div align="center">
 
