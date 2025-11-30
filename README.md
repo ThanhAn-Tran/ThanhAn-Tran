@@ -64,13 +64,6 @@ Full-stack AI shopping assistant with GPT-4 intent recognition.
 </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanhAn-Tran&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhAn-Tran&theme=tokyonight&hide_border=true"/>
-</div>
-
 ## 📫 Connect with Me
 
 <div align="center">
