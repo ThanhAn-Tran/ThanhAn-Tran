@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Passionate+about+AI+%26+Automation;Building+Intelligent+Systems;Data-Driven+Decision+Making)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ThanhAn-Tran&color=6C63FF&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -85,6 +84,6 @@ Full-stack AI shopping assistant with GPT-4 intent recognition.
 
 <div align="center">
   
-⭐ *"Turning data into insights, and insights into action."*
+⭐ *"Turning data into insights, and insights into action."* <img src="https://komarev.com/ghpvc/?username=ThanhAn-Tran&color=6C63FF&style=flat-square" alt="Profile views"/>
 
 </div>
