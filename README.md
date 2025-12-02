@@ -69,7 +69,6 @@ Full-stack AI shopping assistant with GPT-4 intent recognition.
 <div align="center">
   
 [![Email](https://img.shields.io/badge/-antranthanh904@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antranthanh904@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 </div>
 
