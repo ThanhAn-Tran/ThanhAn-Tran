@@ -41,28 +41,6 @@ class TranThanhAn:
 
 </div>
 
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-  
-### 🌍 Air Quality Index Monitor
-AI-powered AQI prediction with MLP model & Claude API for natural language queries.
-
-`Python` `TensorFlow` `Gradio` `Claude API`
-
-</td>
-<td width="50%">
-
-### 🛒 E-Commerce Chatbot Platform  
-Full-stack AI shopping assistant with GPT-4 intent recognition.
-
-`FastAPI` `GPT-4` `SQL Server` `Flutter Web`
-
-</td>
-</tr>
-</table>
 
 ## 📫 Connect with Me
 
