@@ -18,7 +18,7 @@ class TranThanhAn:
     def __init__(self):
         self.role = "Data Science Student & AI Developer"
         self.location = "Ho Chi Minh City, Vietnam 🇻🇳"
-        self.gpa = "3.0 / 4.0"
+        self.gpa = "3.1 / 4.0"
         self.current = "Intern @ StellarPoint Technologies"
         
     def skills(self):
