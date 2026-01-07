@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello! I'An **TAn**
+# 👋 Hello! I'am **TAn**
 
 ### 🎯 Data Science Student | AI Developer | Intern @ StellarPoint Technologies
 
