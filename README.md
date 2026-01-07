@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Xin chào! Tôi là **Trần Thành An**
+# 👋 Hello! I'An **TAn**
 
 ### 🎯 Data Science Student | AI Developer | Intern @ StellarPoint Technologies
 
